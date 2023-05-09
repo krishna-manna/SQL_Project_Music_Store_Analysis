@@ -6,4 +6,3 @@ to analyze the music playlist database. You can examine the dataset with SQL and
 - Postgre SQL
 - PgAdmin4
 
-## Schema- Music Store Database
